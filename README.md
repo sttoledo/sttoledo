@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sttoledo
+- 🌱 I’m currently learning C# and HTML/CSS/JavaScript
