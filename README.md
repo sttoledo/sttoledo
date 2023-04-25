@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @sttoledo
-- 🌱 I’m currently learning C# and HTML/CSS/JavaScript
+- 👋 Hi, I’m Sergio Toledo
+- 🌱  Hi, my name is Sergio Toledo and I'm a skilled software developer with expertise in C# (.NET and ASP.NET), JavaScript (React and Node.js). 
